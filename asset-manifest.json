@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/itsRoy04.github.io/static/css/main.248da9ce.css",
+    "main.js": "/itsRoy04.github.io/static/js/main.20230c7e.js",
+    "static/media/Right.png": "/itsRoy04.github.io/static/media/Right.8b7ed5bfd34505d312ee.png",
+    "static/media/bs.png": "/itsRoy04.github.io/static/media/bs.dd656bffb7996e04cb6a.png",
+    "static/media/pm.png": "/itsRoy04.github.io/static/media/pm.ca39f629443b3e5fe112.png",
+    "static/media/ylady.jpeg": "/itsRoy04.github.io/static/media/ylady.ac7fa9b16e5de82a373b.jpeg",
+    "static/media/meetun.png": "/itsRoy04.github.io/static/media/meetun.b921409e039bf7686712.png",
+    "static/media/play.png": "/itsRoy04.github.io/static/media/play.99807819b35f97266a61.png",
+    "static/media/mask1.jpeg": "/itsRoy04.github.io/static/media/mask1.297e1f13076e7bbdb89c.jpeg",
+    "static/media/Logo.png": "/itsRoy04.github.io/static/media/Logo.0e64dbebc3efb13a0971.png",
+    "static/media/mrd.png": "/itsRoy04.github.io/static/media/mrd.90c8559c1dba3c1d1e7a.png",
+    "static/media/Star.svg": "/itsRoy04.github.io/static/media/Star.5bf2bbb007169225a95cbddd9936ea39.svg",
+    "index.html": "/itsRoy04.github.io/index.html",
+    "static/media/right.svg": "/itsRoy04.github.io/static/media/right.7d72cb8002a21901f75e44c04ec835af.svg",
+    "static/media/left.svg": "/itsRoy04.github.io/static/media/left.d01996be9d883f8bee19a58f82eb8b6b.svg",
+    "main.248da9ce.css.map": "/itsRoy04.github.io/static/css/main.248da9ce.css.map",
+    "main.20230c7e.js.map": "/itsRoy04.github.io/static/js/main.20230c7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.248da9ce.css",
+    "static/js/main.20230c7e.js"
+  ]
+}
